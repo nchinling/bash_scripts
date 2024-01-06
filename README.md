@@ -15,7 +15,7 @@ E.g. echo "Name: $1" prints the value of the first command-line argument, assume
 $2: Represents the second command-line argument passed to the script.
 E.g. echo "Age: $2" prints the value of the second command-line argument, assumed to be the age.
 
-$#: Represents the total number of command-line arguments passed to the script.
+'$#': Represents the total number of command-line arguments passed to the script.
 E.g. echo "The total number of arguments is: $#" prints the count of command-line arguments.
 
 ## Scripts
