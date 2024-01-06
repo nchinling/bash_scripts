@@ -50,6 +50,9 @@ Removes all object files (files with a ".o" extension) in the current directory 
 ### 10. vow.sh 
 Create and print your own vow.
 
+### 11. list_contents.sh
+Prints the current date and time, prompts the user to enter a directory path, and then lists the files and folders in the specified directory.
+
 ## To create bash scripts
 1. Create bash script
 #!/bin/bash
