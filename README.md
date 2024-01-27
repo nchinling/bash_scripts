@@ -53,6 +53,9 @@ Create and print your own vow.
 ### 11. list_contents.sh
 Prints the current date and time, prompts the user to enter a directory path, and then lists the files and folders in the specified directory.
 
+### 12. age_calc.sh
+Calculates the age of a person in days based on the date of birth. 
+
 ## To create bash scripts
 1. Create bash script
 #!/bin/bash
