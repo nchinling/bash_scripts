@@ -56,6 +56,9 @@ Prints the current date and time, prompts the user to enter a directory path, an
 ### 12. age_calc.sh
 Calculates the age of a person in days based on the date of birth. 
 
+### 13. fibonacci.sh
+Provides the n-th Fibonacci number 
+
 ## To create bash scripts
 1. Create bash script
 #!/bin/bash
