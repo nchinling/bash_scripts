@@ -59,6 +59,10 @@ Calculates the age of a person in days based on the date of birth.
 ### 13. fibonacci.sh
 Provides the n-th Fibonacci number 
 
+### 14. name_greeter.sh
+Greets each person based on a given list of name (names.txt)
+
+
 ## To create bash scripts
 1. Create bash script
 #!/bin/bash
@@ -67,7 +71,7 @@ Provides the n-th Fibonacci number
 2. Save the script
 Save the file with a .sh extension
 
-3. Give Execution Permission
+3. Give Execution Permission to owner
 chmod +x myscript.sh
 
 4. Run the Script
